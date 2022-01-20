@@ -1,0 +1,17 @@
+body{
+    background-color: #c5d3f6;
+}
+.box-1{
+    border: 1px solid #c5d3f6;
+    border-radius: 12px;
+}
+
+table,th,td{
+    padding: 12px;
+}
+tr{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+th{
+    background-color: #6d7ae0;
+}
